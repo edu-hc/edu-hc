@@ -24,7 +24,9 @@ Desenvolvi uma API RESTful para o setor portuário usando Java + Spring Boot, co
 
 🛠 **Projetos Pessoais**  
 - Sistema de pagamentos com JWT, Docker, Flyway e deploy na AWS  
-- API de e-commerce com Spring Boot, JPA, PostgreSQL e deploy no Heroku  
+- API de e-commerce com Spring Boot, JPA, PostgreSQL e deploy no Heroku
+- Jogo de Xadrez em Java com Orientação a Objetos
+- Script de Webscraping para dados públicos da ANS com API Flask e Front-end vue.js  
 
 ---
 
