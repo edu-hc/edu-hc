@@ -20,7 +20,7 @@
 ### 💼 Experiência em Destaque
 
 📌 **Desenvolvedor Freelancer – Arimava Serviços**  
-Desenvolvi uma API RESTful para o setor portuário usando Java + Spring Boot, com integração a banco PostgreSQL e Firebase. Participei do projeto desde o levantamento com o cliente até o deploy, além de colaborar no desenvolvimento mobile com React Native.
+Desenvolvi uma API RESTful para o setor portuário usando Java + Spring Boot, com integração a banco PostgreSQL e AWS. Participei do projeto desde o levantamento com o cliente até o deploy, além de colaborar no desenvolvimento mobile com React Native.
 
 🛠 **Projetos Pessoais**  
 - Sistema de pagamentos com JWT, Docker, Flyway e deploy na AWS  
